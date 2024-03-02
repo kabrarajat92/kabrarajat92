@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/kabrarajat92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kabrarajat92" height="30" width="40" /></a>
 <a href="https://instagram.com/kabrarajat92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kabrarajat92" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@rajat_ravi2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajat_ravi2021" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kabrarajat920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabrarajat920" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kabrarajat92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kabrarajat920" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
